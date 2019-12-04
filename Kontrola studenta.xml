@@ -1,0 +1,291 @@
+
+XML                                                                             
+--------------------------------------------------------------------------------
+<?xml version="1.0"?>
+<report>
+  <hlavicka>
+    <title>Kontrola studenta</title>
+    <os_cislo>2950</os_cislo>
+    <meno>Sarka</meno>
+    <priezvisko>Tapakova</priezvisko>
+    <st_skupina>5R000</st_skupina>
+  </hlavicka>
+  <telo>
+    <skrok rok="1998">
+      <predmet>
+        <cis_predm>P111</cis_predm>
+        <nazov>Zaklady informatiky 1</nazov>
+        <znamka>3 </znamka>
+        <kredit>6</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P211</cis_predm>
+        <nazov>Zaklady informatiky 2</nazov>
+        <znamka>3 </znamka>
+        <kredit>6</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P203</cis_predm>
+        <nazov>Grafy a kombinatorika</nazov>
+        <kredit>7</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P406</cis_predm>
+        <nazov>Cudzi jazyk</nazov>
+        <znamka>2 </znamka>
+        <kredit>1</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>V103</cis_predm>
+        <nazov>Telesna vychova 1.</nazov>
+        <kredit>1</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>V102</cis_predm>
+        <nazov>Praktikum z matematiky</nazov>
+        <kredit>1</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P204</cis_predm>
+        <nazov>Informacne sluzby</nazov>
+        <znamka>3 </znamka>
+        <kredit>4</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P103</cis_predm>
+        <nazov>Matematicka analyza 1.</nazov>
+        <znamka>3 </znamka>
+        <kredit>8</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P102</cis_predm>
+        <nazov>Algebra</nazov>
+        <kredit>6</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>V204</cis_predm>
+        <nazov>Telesna vychova 2.</nazov>
+        <kredit>1</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>V106</cis_predm>
+        <nazov>Jazyk anglicky 1.</nazov>
+        <kredit>1</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P202</cis_predm>
+        <nazov>Matematicka analyza 2.</nazov>
+        <kredit>8</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>V205</cis_predm>
+        <nazov>Jazyk anglicky 2.</nazov>
+        <kredit>1</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P206</cis_predm>
+        <nazov>Mikroekonomia</nazov>
+        <kredit>6</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P106</cis_predm>
+        <nazov>Zaklady ekonomickej teorie</nazov>
+        <znamka>3 </znamka>
+        <kredit>6</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>V604</cis_predm>
+        <nazov>Sociologia</nazov>
+        <znamka>1 </znamka>
+        <kredit>3</kredit>
+      </predmet>
+    </skrok>
+  </telo>
+  <zaver miesto="V Martine" datum="18.11.2019" kto="RABEK2"/>
+</report>
+<?xml version="1.0"?>
+<report>
+  <hlavicka>
+    <title>Kontrola studenta</title>
+    <os_cislo>2950</os_cislo>
+    <meno>Sarka</meno>
+    <priezvisko>Tapakova</priezvisko>
+    <st_skupina>5R000</st_skupina>
+  </hlavicka>
+  <telo>
+    <skrok rok="1999">
+      <predmet>
+        <cis_predm>P402</cis_predm>
+        <nazov>Komunikacne systemy</nazov>
+        <kredit>5</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P203</cis_predm>
+        <nazov>Grafy a kombinatorika</nazov>
+        <kredit>7</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>V312</cis_predm>
+        <nazov>Unix - vyvojove prostredie</nazov>
+        <kredit>4</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P314</cis_predm>
+        <nazov>Zaklady fyziky</nazov>
+        <kredit>6</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>V412</cis_predm>
+        <nazov>Male a stredne podnikanie</nazov>
+        <znamka>1 </znamka>
+        <kredit>4</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>V303</cis_predm>
+        <nazov>Telesna vychova 3.</nazov>
+        <kredit>1</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P304</cis_predm>
+        <nazov>Elektrotechnika</nazov>
+        <znamka>3 </znamka>
+        <kredit>5</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P303</cis_predm>
+        <nazov>Matematicka analyza 3.</nazov>
+        <kredit>7</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P102</cis_predm>
+        <nazov>Algebra</nazov>
+        <znamka>3 </znamka>
+        <kredit>6</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P202</cis_predm>
+        <nazov>Matematicka analyza 2.</nazov>
+        <znamka>3 </znamka>
+        <kredit>8</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P306</cis_predm>
+        <nazov>Zaklady financneho uctovnictva</nazov>
+        <znamka>2 </znamka>
+        <kredit>6</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P206</cis_predm>
+        <nazov>Mikroekonomia</nazov>
+        <znamka>2 </znamka>
+        <kredit>6</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>V405</cis_predm>
+        <nazov>Telesna vychova 4.</nazov>
+        <kredit>1</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>V406</cis_predm>
+        <nazov>Jazyk anglicky 4.</nazov>
+        <kredit>1</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>V305</cis_predm>
+        <nazov>Jazyk anglicky 3.</nazov>
+        <kredit>1</kredit>
+      </predmet>
+    </skrok>
+  </telo>
+  <zaver miesto="V Martine" datum="18.11.2019" kto="RABEK2"/>
+</report>
+<?xml version="1.0"?>
+<report>
+  <hlavicka>
+    <title>Kontrola studenta</title>
+    <os_cislo>2950</os_cislo>
+    <meno>Sarka</meno>
+    <priezvisko>Tapakova</priezvisko>
+    <st_skupina>5R000</st_skupina>
+  </hlavicka>
+  <telo>
+    <skrok rok="2000">
+      <predmet>
+        <cis_predm>P402</cis_predm>
+        <nazov>Komunikacne systemy</nazov>
+        <kredit>5</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P415</cis_predm>
+        <nazov>Statistika</nazov>
+        <kredit>6</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P314</cis_predm>
+        <nazov>Zaklady fyziky</nazov>
+        <kredit>6</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P416</cis_predm>
+        <nazov>Operacna analyza 1.</nazov>
+        <kredit>7</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P609</cis_predm>
+        <nazov>Manazment</nazov>
+        <kredit>6</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>FRI1</cis_predm>
+        <nazov>ECTS - Informacne a riadiace systemy</nazov>
+        <kredit>7</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P404</cis_predm>
+        <nazov>Elektronika</nazov>
+        <kredit>6</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P418</cis_predm>
+        <nazov>Teoria automatickeho riadenia 1</nazov>
+        <kredit>6</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>V525</cis_predm>
+        <nazov>Tovaroznalectvo</nazov>
+        <kredit>2</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P303</cis_predm>
+        <nazov>Matematicka analyza 3.</nazov>
+        <kredit>7</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>P301</cis_predm>
+        <nazov>Pravdepodobnost</nazov>
+        <kredit>6</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>V613</cis_predm>
+        <nazov>Telesna vychova 6</nazov>
+        <kredit>1</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>V513</cis_predm>
+        <nazov>Telesna vychova 5</nazov>
+        <kredit>1</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>V503</cis_predm>
+        <nazov>Psychologia</nazov>
+        <kredit>3</kredit>
+      </predmet>
+      <predmet>
+        <cis_predm>FRI2</cis_predm>
+        <nazov>ECTS bod - Informacne a riadiace systemy 2</nazov>
+      </predmet>
+    </skrok>
+  </telo>
+  <zaver miesto="V Martine" datum="18.11.2019" kto="RABEK2"/>
+</report>
+

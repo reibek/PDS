@@ -1,0 +1,60 @@
+
+XML                                                                             
+--------------------------------------------------------------------------------
+<?xml version="1.0"?>
+<predmet cislo="A913" nazov="Modelovanie financnych investicii">
+  <student>
+    <oc>1541</oc>
+    <meno>Marek Zabka</meno>
+    <skupina>5ZE00</skupina>
+  </student>
+  <student>
+    <oc>2812</oc>
+    <meno>Lenka Gasparovicova</meno>
+    <skupina>5ZE00</skupina>
+  </student>
+  <student>
+    <oc>2694</oc>
+    <meno>Marek Nemeth</meno>
+    <skupina>5ZE51</skupina>
+  </student>
+  <student>
+    <oc>2681</oc>
+    <meno>Eva Blanarova</meno>
+    <skupina>5ZE00</skupina>
+  </student>
+  <student>
+    <oc>2306</oc>
+    <meno>Mario Slosiar</meno>
+    <skupina>5ZE00</skupina>
+  </student>
+</predmet>
+<?xml version="1.0"?>
+<predmet cislo="A914" nazov="Diplomovy seminar E">
+  <student>
+    <oc>1541</oc>
+    <meno>Marek Zabka</meno>
+    <skupina>5ZE00</skupina>
+  </student>
+  <student>
+    <oc>2812</oc>
+    <meno>Lenka Gasparovicova</meno>
+    <skupina>5ZE00</skupina>
+  </student>
+  <student>
+    <oc>2694</oc>
+    <meno>Marek Nemeth</meno>
+    <skupina>5ZE51</skupina>
+  </student>
+  <student>
+    <oc>2681</oc>
+    <meno>Eva Blanarova</meno>
+    <skupina>5ZE00</skupina>
+  </student>
+  <student>
+    <oc>2306</oc>
+    <meno>Mario Slosiar</meno>
+    <skupina>5ZE00</skupina>
+  </student>
+</predmet>
+
